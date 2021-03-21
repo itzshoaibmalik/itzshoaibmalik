@@ -1,7 +1,7 @@
 ### Hi there, I'm Shoaib Malik 👋
 
-[![Website](https://img.shields.io/website?label=piratedboy.wordpress.com&style=for-the-badge&url=https%3A%2F%2Fpiratedboy.wordpress.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/itzshoaibmalik?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fitzshoaibmalik&screen_name=codeSTACKr)
+[![Website](https://img.shields.io/website?label=piratedboy.wordpress.com&style=for-the-badge&url=https%3A%2F%2Fpiratedboy.wordpress.com)](https://piratedboy.wordpress.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/itzshoaibmalik?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fitzshoaibmalik&screen_name=itzshoaibmalik)
 
 ## I'm a Web Developer,Cybersecurity Expert and a Gamer!!
 
