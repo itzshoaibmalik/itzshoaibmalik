@@ -42,8 +42,6 @@
 
 <br />
 
----
-
 
 ### 📕 Latest Blog Posts
 
