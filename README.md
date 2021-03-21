@@ -10,7 +10,6 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play Video games and search Vulnerabilities of random Websites 😄
-- 
 
 ### Connect with me:
 
@@ -45,7 +44,6 @@
 
 ### 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
 - [Implement Dark Mode On Your Website](https://piratedboy.wordpress.com/2021/03/03/implement-dark-mode-on-your-website/)
 - [HTML INJECTION Basic Guide For beginners](https://piratedboy.wordpress.com/2021/02/19/html-injection-basic-guide-for-beginners/)
 
