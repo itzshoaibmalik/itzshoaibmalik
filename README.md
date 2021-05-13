@@ -6,7 +6,7 @@
 
 ## I'm a Web Developer,Cybersecurity Expert and a Gamer!!
 
-- 🔭 Currently I'm 14 year old in Highschool 😁
+- 🔭 Currently I'm 16 year old in Highschool 😁
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🍬 Fond of Cyber Security 🎭
