@@ -41,11 +41,6 @@
 <br />
 <br />
 
-### 📕Latest Blog Posts:
-
-- [Implement Dark Mode On Your Website](https://piratedboy.wordpress.com/2021/03/03/implement-dark-mode-on-your-website/)
-- [HTML INJECTION Basic Guide For beginners](https://piratedboy.wordpress.com/2021/02/19/html-injection-basic-guide-for-beginners/)
-
 [website]: https://piratedboy.wordpress.com
 [twitter]: https://twitter.com/itzshoaibmalik
 [instagram]: https://instagram.com/itzshoaibmalik
