@@ -11,7 +11,8 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🍬 Fond of Cyber Security 🎭
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play Video games and search Vulnerabilities of random Websites 😄
+- ⚡ Fun fact: I love to surf random things and search Vulnerabilities of random Websites 😄
+- 🏵 Mail me at malikshoaib@gmail.com
 
 ### Connect with me:
 
