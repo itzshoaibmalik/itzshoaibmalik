@@ -40,8 +40,6 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=itzshoaibmalik&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=itzshoaibmalik&langs_count=5&theme=tokyonight)]()
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<itzshoaibmalik>&theme=<THEME_NAME>" />
-
 
 
 <br />
