@@ -41,6 +41,7 @@
 <br />
 <br />
 <br />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
 
 [website]: https://piratedboy.wordpress.com
 [twitter]: https://twitter.com/itzshoaibmalik
