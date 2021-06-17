@@ -1,4 +1,4 @@
-### Hi there, I'm Shoaib Malik 👋
+### Hi there, It's Shoaib Malik 👋
 
 [![Website](https://img.shields.io/website?label=piratedboy.wordpress.com&style=for-the-badge&url=https%3A%2F%2Fpiratedboy.wordpress.com)](https://piratedboy.wordpress.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/itzshoaibmalik?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fitzshoaibmalik&screen_name=itzshoaibmalik)
@@ -6,13 +6,13 @@
 
 ## I'm a Web Developer,Cybersecurity Expert and a Gamer!!
 
-- 🔭 Currently I'm 17 year old in Interschool 😁
+- 🔭 Currently I'm 17 year old in Interschool hehe 😁
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🍬 Fond of Cyber Security 🎭
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to surf random things and search Vulnerabilities of random Websites 😄
-- 🏵 Mail me at malikshoaib@gmail.com
+- 🏵 Mail me at malikshoaib7687@gmail.com
 
 ### Connect with me:
 
