@@ -41,6 +41,7 @@
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=itzshoaibmalik&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=itzshoaibmalik&langs_count=5&theme=tokyonight)]()
+<img src="http://www.hackthebox.eu/badge/image/656517" alt="Hack The Box">
 
 
 
