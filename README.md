@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/itzshoaibmalik?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fitzshoaibmalik&screen_name=itzshoaibmalik)
 ![](https://komarev.com/ghpvc/?username=itzshoaibmalik&color=brightgreen)
 
-## I'm a Web Developer,Cybersecurity Expert and a Gamer!!
+## I'm a Web Developer, Cybersecurity Expert and a NOOBDA hehe!!
 
 - 🔭 Currently I'm perfecting Py along with Java hehe 😁
 - 🌱 I’m currently learning everything 🤣
