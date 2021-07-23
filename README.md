@@ -7,8 +7,8 @@
 ## I'm a Web Developer, Cybersecurity Expert and a NOOBDA hehe!!
 
 
-<script src="https://use.fontawesome.com/releases/v5.15.1/js/all.js" crossorigin="anonymous"></script>
-
+<span class="d-none d-lg-block"><img class="img-fluid img-profile rounded-circle mx-auto mb-2"
+    src="https://avatars.githubusercontent.com/u/55389276?v=4" /></span>
 
 - 🔭 Currently I'm perfecting Py along with Java hehe 😁
 - 🌱 I’m currently learning everything 🤣
