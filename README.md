@@ -6,6 +6,10 @@
 
 ## I'm a Web Developer, Cybersecurity Expert and a NOOBDA hehe!!
 
+
+<script src="https://use.fontawesome.com/releases/v5.15.1/js/all.js" crossorigin="anonymous"></script>
+
+
 - 🔭 Currently I'm perfecting Py along with Java hehe 😁
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
