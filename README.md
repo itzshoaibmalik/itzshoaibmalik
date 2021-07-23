@@ -7,8 +7,11 @@
 ## I'm a Web Developer, Cybersecurity Expert and a NOOBDA hehe!!
 
 
-<span class="d-none d-lg-block"><img class="img-fluid img-profile rounded-circle mx-auto mb-2"
-    src="https://avatars.githubusercontent.com/u/55389276?v=4" /></span>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/55389276/121788595-0f0a8480-cbec-11eb-9917-a10455d8a85d.gif" />
+</p>
+
+
 
 - 🔭 Currently I'm perfecting Py along with Java hehe 😁
 - 🌱 I’m currently learning everything 🤣
