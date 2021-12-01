@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=piratedboy.wordpress.com&style=for-the-badge&url=https%3A%2F%2Fpiratedboy.wordpress.com)](https://piratedboy.wordpress.com)
 
 ![](https://komarev.com/ghpvc/?username=itzshoaibmalik&color=brightgreen)
-![Instagram](https://img.shields.io/badge/Instagram/-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+![Instagram](https://img.shields.io/badge/instagram.com/itzshoaibmalik/-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/55389276/121788595-0f0a8480-cbec-11eb-9917-a10455d8a85d.gif" />
