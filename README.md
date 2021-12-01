@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=itzshoaibmalik&color=brightgreen)
 ![Instagram](https://img.shields.io/badge/https://www.instagram.com/itzshoaibmalik/-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 
-
+https://img.shields.io/badge/itzshoaibmalik-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 <p align="center">
 <img src="https://user-images.githubusercontent.com/55389276/121788595-0f0a8480-cbec-11eb-9917-a10455d8a85d.gif" />
 </p>
