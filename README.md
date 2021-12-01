@@ -51,6 +51,6 @@
 
 [website]: https://piratedboy.wordpress.com
 [twitter]: https://twitter.com/itzshoaibmalik
-[instagram]: https://instagram.com/itzshoaibmalik
+[Instagram]: https://instagram.com/itzshoaibmalik
 [linkedin]: https://linkedin.com/in/itzshoaibmalik
 
