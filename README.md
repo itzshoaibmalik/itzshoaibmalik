@@ -3,6 +3,8 @@
 
 <hr/>
 
+https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black
+
 [![Website](https://img.shields.io/website?label=piratedboy.wordpress.com&style=for-the-badge&url=https%3A%2F%2Fpiratedboy.wordpress.com)](https://piratedboy.wordpress.com)
 
 ![](https://komarev.com/ghpvc/?username=itzshoaibmalik&color=brightgreen)
