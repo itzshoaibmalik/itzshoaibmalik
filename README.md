@@ -3,8 +3,8 @@
 
 <hr/>
 
-![](https://komarev.com/ghpvc/?username=itzshoaibmalik&color=brightgreen)
-![Instagram](https://img.shields.io/badge/instagram.com/itzshoaibmalik/-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+![](https://komarev.com/ghpvc/?username=by.shoaib&color=brightgreen)
+![Instagram](https://img.shields.io/badge/instagram.com/by.shoaib/-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/55389276/121788595-0f0a8480-cbec-11eb-9917-a10455d8a85d.gif" />
@@ -17,7 +17,7 @@
 
 [<img align="left" alt="piratedboy.wordpress.com" width="36px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
-[<img align="left" alt="itzshoaibmalik | Instagram" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="by.shoaib | Instagram" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -54,6 +54,6 @@
 
 [website]: https://piratedboy.wordpress.com
 [twitter]: https://twitter.com/itzshoaibmalik
-[Instagram]: https://instagram.com/itzshoaibmalik
+[Instagram]: https://instagram.com/by.shoaib
 [linkedin]: https://linkedin.com/in/itzshoaibmalik
 
