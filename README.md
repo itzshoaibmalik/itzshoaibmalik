@@ -3,7 +3,7 @@
 
 <hr/>
 
-![](https://komarev.com/ghpvc/?username=by.shoaib&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=itzshoaibmalik&color=brightgreen)
 ![Instagram](https://img.shields.io/badge/instagram.com/by.shoaib/-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 
 <p align="center">
