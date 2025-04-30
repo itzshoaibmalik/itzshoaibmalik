@@ -41,8 +41,6 @@
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=itzshoaibmalik&theme=tokyonight" />
   <br />
     <img width="30%" src="http://www.hackthebox.eu/badge/image/656517" />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzshoaibmalik&show_icons=true&theme=transparent)</p>
-
  <h2><i>Random dev joke for you! </i></h2>
 
 <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a> <!-- <a href="https://readme-jokes.vercel.app"> --> 
