@@ -9,7 +9,6 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/55389276/121788595-0f0a8480-cbec-11eb-9917-a10455d8a85d.gif" />
 </p>
-<img src="https://img.shields.io/github/commits-since/{itzshoaibmalik}/{version}.svg" />
 
 
 - 🏵 Mail me at malikshoaib7687@gmail.com
