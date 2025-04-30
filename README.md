@@ -9,7 +9,7 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/55389276/121788595-0f0a8480-cbec-11eb-9917-a10455d8a85d.gif" />
 </p>
-<img src="https://img.shields.io/github/commits-since/{username}/{repo-name}/{version}.svg" />
+<img src="https://img.shields.io/github/commits-since/{itzshoaibmalik}/{version}.svg" />
 
 
 - 🏵 Mail me at malikshoaib7687@gmail.com
@@ -41,6 +41,7 @@
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=itzshoaibmalik&theme=tokyonight" />
   <br />
     <img width="30%" src="http://www.hackthebox.eu/badge/image/656517" />
+    
 
 </p>
 
