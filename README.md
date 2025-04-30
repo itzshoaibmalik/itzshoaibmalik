@@ -41,8 +41,7 @@
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=itzshoaibmalik&theme=tokyonight" />
   <br />
     <img width="30%" src="http://www.hackthebox.eu/badge/image/656517" />
-  [![Shoaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzshoaibmalik)](https://github.com/itzshoaibmalik/github-readme-stats)    
-
+[![Shoaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzshoaibmalik)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
  <h2><i>Random dev joke for you! </i></h2>
