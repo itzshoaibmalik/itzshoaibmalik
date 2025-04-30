@@ -41,7 +41,7 @@
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=itzshoaibmalik&theme=tokyonight" />
   <br />
     <img width="30%" src="http://www.hackthebox.eu/badge/image/656517" />
-    <img width="40%" src="https://img.shields.io/github/commits-since/{username}/{repo-name}/{version}.svg" />
+    <img width="40%" src="https://img.shields.io/github/commits-since/{itzshoaibmalik}/{version}.svg" />
     
 
 </p>
