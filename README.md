@@ -36,19 +36,16 @@
 <br />
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/?username=itzshoaibmalik&count_private=true&theme=tokyonight&showicons=true" />
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=itzshoaibmalik&theme=tokyonight" />
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=itzshoaibmalik&show_icons=true&count_private=true&theme=darcula&hide=issues&hide_border=true&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=itzshoaibmalik&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,mdx,tex,html,lua,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=itzshoaibmalik&theme=darcula&hide_border=true&background=FFFFFF00">
+</p>
   <br />
     <img width="30%" src="http://www.hackthebox.eu/badge/image/656517" />
  <h2><i>Random dev joke for you! </i></h2>
 
 <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a> <!-- <a href="https://readme-jokes.vercel.app"> --> 
 
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=itzshoaibmalik&show_icons=true&count_private=true&theme=darcula&hide=issues&hide_border=true&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=itzshoaibmalik&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,mdx,tex,html,lua,php&exclude_repo=Pacman-AI">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=itzshoaibmalik&theme=darcula&hide_border=true&background=FFFFFF00">
-</p>
 
 <br />
 <br />
